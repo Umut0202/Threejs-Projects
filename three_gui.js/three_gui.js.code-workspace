@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../three_cube.js"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "three_gui.js"
+  }
+}
